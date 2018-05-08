@@ -30,6 +30,9 @@ const Navbar = props => (
         <li>
           <a href="https://tsi-trading.herokuapp.com/">Learn</a>
         </li>
+        <li>
+          <a href="https://tsimongo.herokuapp.com/">MongoDB</a>
+        </li>
       </ul>
     </div>
   </nav>
