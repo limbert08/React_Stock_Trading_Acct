@@ -28,7 +28,7 @@ const Navbar = props => (
           <Link to="/search">Stock Search</Link>
         </li>
         <li>
-          <a href="https://limbert08.github.io/MartaAPI/martalist.html">Learn</a>
+          <a href="https://tsi-trading.herokuapp.com/">Learn</a>
         </li>
       </ul>
     </div>
